@@ -1,0 +1,38 @@
+h1, form, input {
+	font-family: lato, arial;	
+}
+
+h1 {
+	text-align: center;
+	padding: 0.5em;
+}
+
+.fa-user {
+	padding: 5px;
+}
+
+.input-items {
+	padding: 0.5em;
+}
+
+.directory, .input {
+	padding: 2em;
+}
+
+.input {
+	text-align: center;
+}
+
+.person {
+	margin: 2em;
+	padding: 1em;
+	text-align: center;
+	height: 300px;
+	width: 200px;
+	border: solid black 1px;
+	border-radius: 2em;
+}
+
+.directory {
+	display: inline-block;
+}
